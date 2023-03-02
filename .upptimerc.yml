@@ -5,8 +5,12 @@ repo: rdpfisteruptime # The name of this repository
 sites:
   - name: Georgetown Database
     url: https://database.playgeorge.town
+    assignees:
+    - mifd670
   - name: RDPFISTER Scaner
     url: https://feed.rdpfister.com
+    assignees:
+     - mifd670
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,11 +21,13 @@ status-website:
   name: RDPFISTER Uptime
   introTitle: "**RDPFISTER** status page for Ryan Pfister's assets.."
   introMessage: Welcome to my Status Page
+  theme: night
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
