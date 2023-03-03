@@ -7,6 +7,9 @@ sites:
     url: https://database.playgeorge.town
     assignees:
     - mifd670
+    headers:
+    - "Content-Type: application/json"
+  body: '{ "Username": "Georgetown", "Password": "Longwood2023@" }'
   - name: RDPFISTER Scaner
     url: https://feed.rdpfister.com
     assignees:
