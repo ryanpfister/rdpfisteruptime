@@ -5,9 +5,7 @@ repo: rdpfisteruptime # The name of this repository
 sites:
   - name: Georgetown Database
     url: https://database.playgeorge.town
-    assignees:
-    - mifd670
-   expectedStatusCodes:
+    expectedStatusCodes:
       - 401
   - name: RDPFISTER Scaner
     url: https://feed.rdpfister.com
