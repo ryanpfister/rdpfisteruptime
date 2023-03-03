@@ -7,9 +7,8 @@ sites:
     url: https://database.playgeorge.town
     assignees:
     - mifd670
-    headers:
-    - "Content-Type: application/json"
-  body: '{ "Username": "Georgetown", "Password": $SITE_PASS }'
+   expectedStatusCodes:
+      - 401
   - name: RDPFISTER Scaner
     url: https://feed.rdpfister.com
     assignees:
