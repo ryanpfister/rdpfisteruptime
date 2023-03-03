@@ -9,7 +9,7 @@ sites:
     - mifd670
     headers:
     - "Content-Type: application/json"
-  body: '{ "Username": "Georgetown", "Password": "Longwood2023@" }'
+  body: '{ "Username": "Georgetown", "Password": $SITE_PASS }'
   - name: RDPFISTER Scaner
     url: https://feed.rdpfister.com
     assignees:
