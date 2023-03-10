@@ -1,7 +1,7 @@
-url: https://cad.soonerstaterp.com
-status: up
-code: 200
-responseTime: 1405
-lastUpdated: 2023-03-10T07:29:50.777Z
+url: https://database.playgeorge.town
+status: down
+code: 401
+responseTime: 77
+lastUpdated: 2023-03-10T07:30:00.105Z
 startTime: Fri Mar 03 2023 23:45:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
