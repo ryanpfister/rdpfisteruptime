@@ -44,23 +44,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/cad.soonerstaterp.com.ico",
     "slug": "sooner-state-rp-cad",
     "status": "down",
-    "uptime": "88.15%",
-    "uptimeDay": "70.67%",
-    "uptimeWeek": "75.38%",
-    "uptimeMonth": "88.15%",
-    "uptimeYear": "88.15%",
+    "uptime": "88.20%",
+    "uptimeDay": "70.68%",
+    "uptimeWeek": "75.46%",
+    "uptimeMonth": "88.20%",
+    "uptimeYear": "88.20%",
     "time": 406,
     "timeDay": 359,
     "timeWeek": 367,
     "timeMonth": 406,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2023-03-18": 299,
+      "2023-03-18": 314,
       "2023-03-17": 449,
       "2023-03-16": 476,
       "2023-03-15": 450,
       "2023-03-14": 679,
-      "2023-03-13": 130
+      "2023-03-13": 106
     }
   },
   {
@@ -69,23 +69,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/database.playgeorge.town.ico",
     "slug": "sooner-state-rp-cad",
     "status": "down",
-    "uptime": "88.15%",
-    "uptimeDay": "70.67%",
-    "uptimeWeek": "75.38%",
-    "uptimeMonth": "88.15%",
-    "uptimeYear": "88.15%",
+    "uptime": "88.20%",
+    "uptimeDay": "70.68%",
+    "uptimeWeek": "75.46%",
+    "uptimeMonth": "88.20%",
+    "uptimeYear": "88.20%",
     "time": 406,
     "timeDay": 359,
     "timeWeek": 367,
     "timeMonth": 406,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2023-03-18": 299,
+      "2023-03-18": 314,
       "2023-03-17": 449,
       "2023-03-16": 476,
       "2023-03-15": 450,
       "2023-03-14": 679,
-      "2023-03-13": 130
+      "2023-03-13": 106
     }
   }
 ]
