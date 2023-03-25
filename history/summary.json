@@ -45,23 +45,23 @@
     "slug": "sooner-state-rp-cad",
     "status": "down",
     "uptime": "92.00%",
-    "uptimeDay": "71.38%",
-    "uptimeWeek": "75.88%",
+    "uptimeDay": "71.33%",
+    "uptimeWeek": "75.86%",
     "uptimeMonth": "92.00%",
     "uptimeYear": "92.00%",
     "time": 387,
-    "timeDay": 367,
+    "timeDay": 368,
     "timeWeek": 364,
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-03-25": 144,
+      "2023-03-25": 161,
       "2023-03-24": 413,
       "2023-03-23": 397,
       "2023-03-22": 384,
       "2023-03-21": 345,
       "2023-03-20": 497,
-      "2023-03-19": 252
+      "2023-03-19": 236
     }
   },
   {
@@ -71,23 +71,23 @@
     "slug": "sooner-state-rp-cad",
     "status": "down",
     "uptime": "92.00%",
-    "uptimeDay": "71.38%",
-    "uptimeWeek": "75.87%",
+    "uptimeDay": "71.31%",
+    "uptimeWeek": "75.86%",
     "uptimeMonth": "92.00%",
     "uptimeYear": "92.00%",
     "time": 387,
-    "timeDay": 367,
+    "timeDay": 368,
     "timeWeek": 364,
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-03-25": 144,
+      "2023-03-25": 161,
       "2023-03-24": 413,
       "2023-03-23": 397,
       "2023-03-22": 384,
       "2023-03-21": 345,
       "2023-03-20": 497,
-      "2023-03-19": 252
+      "2023-03-19": 236
     }
   }
 ]
