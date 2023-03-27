@@ -46,7 +46,7 @@
     "slug": "sooner-state-rp-cad",
     "status": "down",
     "uptime": "92.65%",
-    "uptimeDay": "66.80%",
+    "uptimeDay": "66.81%",
     "uptimeWeek": "75.07%",
     "uptimeMonth": "92.65%",
     "uptimeYear": "92.65%",
@@ -82,7 +82,7 @@
     "timeMonth": 382,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2023-03-27": 456,
+      "2023-03-27": 457,
       "2023-03-26": 343,
       "2023-03-25": 318,
       "2023-03-24": 413,
