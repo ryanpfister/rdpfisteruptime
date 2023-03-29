@@ -15,6 +15,10 @@ sites:
     url: http://frc-scouting.streamlit.app
     assignees:
      - mifd670
+  - name: The Blue Alliance
+    url: http://thebluealliance.com
+    assignees:
+     - mifd670
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
