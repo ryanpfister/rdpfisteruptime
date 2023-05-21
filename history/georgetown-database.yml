@@ -1,7 +1,7 @@
 url: https://database.playgeorge.town
-status: down
-code: 502
-responseTime: 2802
-lastUpdated: 2023-05-20T23:12:18.625Z
+status: up
+code: 401
+responseTime: 629
+lastUpdated: 2023-05-21T21:58:25.721Z
 startTime: Thu Mar 02 2023 15:27:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
